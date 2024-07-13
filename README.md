@@ -1,4 +1,4 @@
-<h2 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Juan Manuel Silva and I'm a Full Stack Developer 🧑🏻‍💻| Electrician 🧑🏻‍🔧⚡💡| Salesman 👨🏻‍💼💲 | Security Officer from Las Breñas, Chaco. Argentina.</h2>
+<h2 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Juan Manuel Silva and I'm a Full Stack Developer student 🧑🏻‍💻 from Las Breñas, Chaco. Argentina.</h2>
 
 ###
 
