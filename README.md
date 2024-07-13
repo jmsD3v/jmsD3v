@@ -1,6 +1,12 @@
-<h2 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Juan Manuel Silva <br> I'm a Full Stack Developer student 🧑🏻‍💻 <br>from Las Breñas, Chaco. Argentina.</h2>
+<div align= "center">
+  <h2 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Juan Manuel Silva <br> I'm a Full Stack Developer student 🧑🏻‍💻
+</div>
 
 ###
+
+<div align= "center">
+  <img src="https://profile-counter.glitch.me/jmSilva83/count.svg">
+</div>
 
 <br clear="both">
 
