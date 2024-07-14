@@ -4,9 +4,6 @@
   <h2 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Juan Manuel Silva <br> I'm a Full Stack Developer student 🧑🏻‍💻
 </div>
 
-<div align="center">
-   <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRocmdpdGdycWRtbzBqZ3VnMHZ6cjgzZTIxdzVwZGtxZDlsaDU5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AKdbDY0CcCir1JWFdC/giphy.gif" width = 600px>
-</div>
 ###
 
 <div align= "center">
@@ -21,6 +18,9 @@
 </div>
 
 ###
+<div align="center">
+   <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRocmdpdGdycWRtbzBqZ3VnMHZ6cjgzZTIxdzVwZGtxZDlsaDU5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AKdbDY0CcCir1JWFdC/giphy.gif" width = 600px>
+</div>
 
 <br clear="both">
 
