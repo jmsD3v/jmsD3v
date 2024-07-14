@@ -18,9 +18,6 @@
 </div>
 
 ###
-<div align="center">
-   <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRocmdpdGdycWRtbzBqZ3VnMHZ6cjgzZTIxdzVwZGtxZDlsaDU5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AKdbDY0CcCir1JWFdC/giphy.gif" width = 600px>
-</div>
 
 <br clear="both">
 
@@ -28,6 +25,12 @@
    <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 80px>
 </div>
 
+###
+
+<div align="center">
+   <picture><img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXRocmdpdGdycWRtbzBqZ3VnMHZ6cjgzZTIxdzVwZGtxZDlsaDU5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AKdbDY0CcCir1JWFdC/giphy.gif" width = 600px>
+</div>
+        
 ###
 
 <br clear="both">
