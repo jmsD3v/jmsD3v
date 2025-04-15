@@ -101,4 +101,12 @@
   
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmSilva83/jmSilva83/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmSilva83/jmSilva83/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jmSilva83/jmSilva83/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <a href="https://app.daily.dev/juanma83"><img src="https://api.daily.dev/devcards/v2/GIKCbc6uDgkyycimbrYc9.png?type=default&r=yg8" width="356" alt="Juanma's Dev Card"/></a>
