@@ -1,7 +1,7 @@
 <div align="center">
   <h2>
-    Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
-    I'm Juan Manuel Silva — Full Stack Dev 🧑🏻‍💻 | Cybersecurity Student 🛡️ | Python Dev 🐍
+    Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Juan Manuel Silva — <br>
+    Full Stack Dev 🧑🏻‍💻 | Cybersecurity Student 🛡️ | Python Dev 🐍
   </h2>
 </div>
 
