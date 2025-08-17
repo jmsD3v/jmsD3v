@@ -15,12 +15,14 @@
 ###
 
 <div align="center">
-  <h2>
-    About Me:
-    I am a Full Stack Developer and Python Developer, with experience in software development and automation projects.
-    I also work as a Cybersecurity Analyst in continuous training, applying a security-by-design approach to build efficient, scalable, and reliable solutions.
-    Currently, I am deepening my expertise in information security while developing modern applications that combine innovation and technical robustness.
-  </h2>
+  About Me:
+  I am a Full Stack Developer and Python Developer, 
+  with experience in software development and automation projects.
+  I also work as a Cybersecurity Analyst in continuous training, 
+  applying a security-by-design approach to build efficient, scalable, and reliable solutions.
+  Currently, I am deepening my expertise in information security 
+  while developing modern applications that combine innovation and technical robustness.
+  
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJsejV2aWZ0b3d6dmdkNzdseTZsY3k4ajdyMGVncWxwaWZ1NmVjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="600px" alt="About me" />
 </div>
 
