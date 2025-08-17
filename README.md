@@ -1,12 +1,11 @@
 <div align="center">
-  <h2>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Juan Manuel Silva <br> I'm a Full Stack Dev 🧑🏻‍💻 | Cybersecurity Student | Python Dev </h2>
+  <h2>
+    Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"><br>
+    I'm Juan Manuel Silva — Full Stack Dev 🧑🏻‍💻 | Cybersecurity Student 🛡️ | Python Dev 🐍
+  </h2>
 </div>
 
 ###
-
-
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jmSilva83&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
@@ -14,8 +13,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <picture>
@@ -31,43 +28,33 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="Bootstrap" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="Postman" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="TailwindCSS" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="Vite" />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="JavaScript" /></td>
+    <td><img src="https://cdn.simpleicons.org/typescript/3178C6" height="30" alt="TypeScript" /></td>
+    <td><img src="https://cdn.simpleicons.org/react/61DAFB" height="30" alt="React" /></td>
+    <td><img src="https://cdn.simpleicons.org/html5/E34F26" height="30" alt="HTML5" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/css3/1572B6" height="30" alt="CSS3" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" /></td>
+    <td><img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="Bootstrap" /></td>
+    <td><img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="Git" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="MongoDB" /></td>
+    <td><img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="Next.js" /></td>
+    <td><img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="Node.js" /></td>
+    <td><img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="Postman" /></td>
+    <td><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="TailwindCSS" /></td>
+    <td><img src="https://cdn.simpleicons.org/vite/646CFF" height="30" alt="Vite" /></td>
+  </tr>
+</table>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.instagram.com/jmsilva83" target="_blank" rel="noopener noreferrer">
@@ -89,8 +76,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/jmSilva83/jmSilva83/output/snake.svg" alt="Snake animation" />
 </div>
@@ -105,4 +90,14 @@
 
 ###
 
-<a href="https://app.daily.dev/juanma83"><img src="https://api.daily.dev/devcards/v2/GIKCbc6uDgkyycimbrYc9.png?type=default&r=yg8" width="356" alt="Juanma's Dev Card"/></a>
+<div align="center">
+  <a href="https://app.daily.dev/juanma83">
+    <img src="https://api.daily.dev/devcards/v2/GIKCbc6uDgkyycimbrYc9.png?type=default&r=yg8" width="356" alt="Juanma's Dev Card"/>
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjmSilva83&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
+</div>
