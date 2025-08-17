@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jmsD3v/count.svg" alt="profile views counter">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FjmsD3v&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false"/>
 </div>
 
 <br clear="both">
@@ -21,7 +21,7 @@
 
 <div align="center">
   <picture>
-    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="80px" alt="About me" />
+    <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="80px" alt="About me" />
   </picture>
 </div>
 
