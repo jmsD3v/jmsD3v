@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jmSilva83/count.svg" alt="profile views counter">
+  <img src="https://profile-counter.glitch.me/jmsD3v/count.svg" alt="profile views counter">
 </div>
 
 <br clear="both">
