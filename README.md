@@ -83,8 +83,9 @@ while developing modern applications that combine innovation and technical robus
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jmsD3v/jmsD3v/output/pacman-contribution-graph.svg" alt="Pacman contribution graph" />
+  <img src="https://raw.githubusercontent.com/jmsD3v/jmsD3v/output/pacman-contribution-graph.svg" width="400" alt="Pacman contribution graph" />
 </div>
+
 
 ###
 
