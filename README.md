@@ -1,7 +1,7 @@
 <div align="center">
   <h2>
     Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Juan Manuel Silva<br>
-    Full Stack Dev 🧑🏻‍💻 | Cybersecurity Student 🛡️ | Python Dev 🐍
+    Full Stack Dev 🧑🏻‍💻 | Cybersecurity Analist 🛡️ | Python Dev 🐍
   </h2>
 </div>
 
@@ -16,6 +16,12 @@
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJsejV2aWZ0b3d6dmdkNzdseTZsY3k4ajdyMGVncWxwaWZ1NmVjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="600px" alt="About me" />
+  <h2>
+    About Me:
+    I am a Full Stack Developer and Python Developer, with experience in software development and automation projects.
+    I also work as a Cybersecurity Analyst in continuous training, applying a security-by-design approach to build efficient, scalable, and reliable solutions.
+    Currently, I am deepening my expertise in information security while developing modern applications that combine innovation and technical robustness.
+  </h2>
 </div>
 
 ###
