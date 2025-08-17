@@ -24,8 +24,7 @@ applying a security-by-design approach to build efficient, scalable, and reliabl
 Currently, I am deepening my expertise in information security<br>
 while developing modern applications that combine innovation and technical robustness.<br>
 
-</div>
-<div>
+
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJsejV2aWZ0b3d6dmdkNzdseTZsY3k4ajdyMGVncWxwaWZ1NmVjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="600px" alt="About me" />
 </div>
 
