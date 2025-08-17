@@ -21,7 +21,7 @@
   I also work as a Cybersecurity Analyst in continuous training, 
   applying a security-by-design approach to build efficient, scalable, and reliable solutions.
   Currently, I am deepening my expertise in information security 
-  while developing modern applications that combine innovation and technical robustness.
+  while developing modern applications that combine innovation and technical robustness.<br>
   
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJsejV2aWZ0b3d6dmdkNzdseTZsY3k4ajdyMGVncWxwaWZ1NmVjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="600px" alt="About me" />
 </div>
