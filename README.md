@@ -22,7 +22,7 @@ with experience in software development and automation projects.<br>
 I also work as a Cybersecurity Analyst in continuous training,<br>
 applying a security-by-design approach to build efficient, scalable, and reliable solutions.<br>
 Currently, I am deepening my expertise in information security<br>
-while developing modern applications that combine innovation and technical robustness.<br>
+while developing modern applications that combine innovation and technical robustness.<br><br>
 
 
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHJsejV2aWZ0b3d6dmdkNzdseTZsY3k4ajdyMGVncWxwaWZ1NmVjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="600px" alt="About me" />
