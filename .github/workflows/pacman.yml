@@ -1,8 +1,9 @@
-name: Generate Pac-Man Graph
+name: Generate Pacman Graph
+
 on:
   schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Corre una vez al día
+  workflow_dispatch:     # Permite ejecutarlo manualmente
   push:
     branches:
       - main
@@ -11,10 +12,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate pacman-contribution-graph.svg
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Pacman Graph
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: jmsD3v
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
