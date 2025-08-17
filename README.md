@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<b>About Me:</b><br>
+<h2>About Me:</h2><br>
 I am a Full Stack Developer and Python Developer,<br>
 with experience in software development and automation projects.<br>
 I also work as a Cybersecurity Analyst in continuous training,<br>
@@ -83,7 +83,7 @@ while developing modern applications that combine innovation and technical robus
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jmsD3v/jmsD3v/output/pacman-contribution-graph.svg" width="400" alt="Pacman contribution graph" />
+  <img src="https://raw.githubusercontent.com/jmsD3v/jmsD3v/output/pacman-contribution-graph.svg" width="600" alt="Pacman contribution graph" />
 </div>
 
 
