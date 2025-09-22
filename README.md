@@ -17,7 +17,7 @@
 <div align="center">
 
 <h2>About Me:</h2><br>
-I am a Full Stack Developer and Python Developer,<br>
+I am a Full Stack JS/TS and Python Developer,<br>
 with experience in software development and automation projects.<br>
 I also work as a Cybersecurity Analyst in continuous training,<br>
 applying a security-by-design approach to build efficient, scalable, and reliable solutions.<br>
