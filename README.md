@@ -81,7 +81,7 @@ Currently deepening my expertise in **information security** and **industrial au
 <a href="mailto:juanmanuelsilva06@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
 </a>
-<a href="https://www.linkedin.com/in/juan-manuel-silva-dev" target="_blank">
+<a href="https://www.linkedin.com/in/jmsilva83" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
 </a>
 <a href="https://wa.me/+543731551351" target="_blank">
