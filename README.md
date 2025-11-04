@@ -36,7 +36,7 @@ I specialize in:
 - **AI consulting** and automation for institutional clients
 - **Electrical installations** and **renewable energy systems**
 
-Currently deepening my expertise in **information security** and **industrial automation with PLCs and Python**, while crafting reusable templates for consulting and academic excellence.
+Currently deepening my expertise in **cybersecurity** and **industrial automation with PLCs and Python**, while crafting reusable templates for consulting and academic excellence.
 
 <div align="center">
   <img src="https://media1.giphy.com/media/gVlgj80ZLp9yo/giphy.gif" width="600px" alt="About me" />
