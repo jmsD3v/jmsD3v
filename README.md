@@ -1,7 +1,7 @@
 <div align="center">
   <h2>
     Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Juan Manuel Silva<br>
-    Full Stack Dev 🧑🏻‍💻 | Cybersecurity Analist 🛡️ | Python Dev 🐍
+    Full Stack JS/TS 🧑🏻‍💻 & Python 🐍 Developer | Cybersecurity Analyst 🛡️| AI Consultant | Specialist Electrician in Renewable Energy
   </h2>
 </div>
 
