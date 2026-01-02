@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hello there! I'm Juan Manuel Silva  
-🧑🏻‍💻 Full Stack JS/TS & Python Developer | 🛡️ Cybersecurity Analyst | 🤖 AI Consultant | ⚡ Specialist Electrician in Renewable Energy
+🧑🏻‍💻 Full Stack JS/TS & Python Developer | 🛡️ Cybersecurity Specialist | 🤖 AI Engineer | ⚡ Specialist Electrician in Renewable Energy
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave" />
 
