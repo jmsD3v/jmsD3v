@@ -119,49 +119,19 @@ Certified electrician specializing in **renewable energy systems** and solar ins
   </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/jmsD3v/jmsD3v/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmsD3v/jmsD3v/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmsD3v/jmsD3v/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/jmsD3v/jmsD3v/output/snake.svg" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jmsD3v/jmsD3v/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jmsD3v/jmsD3v/output/pacman-contribution-graph.svg" />
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/jmsD3v/jmsD3v/output/pacman-contribution-graph.svg" />
+</picture>
 
 </div>
-
----
-
-<details>
-<summary>⚙️ Setup: snake animation</summary>
-
-Creá el archivo `.github/workflows/snake.yml` en tu repo `jmsD3v/jmsD3v` con este contenido:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Después andá a **Actions → Generate Snake Animation → Run workflow** para generar el SVG la primera vez sin esperar el cron de 12 horas.
-
-</details>
 
 ---
 
