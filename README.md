@@ -94,13 +94,12 @@ Certified electrician specializing in **renewable energy systems** and solar ins
 
 ## 📌 Featured Projects
 
-> *Coming soon — projects in progress. Check back or watch the repo.*
-
 | Project | Description | Stack |
 |---------|------------|-------|
-| 🔧 `[your-project]` | *Brief description* | TS · Node · React |
-| 🔐 `[security-tool]` | *Brief description* | Python · Bash |
-| 🤖 `[ai-project]` | *Brief description* | Python · LLM API |
+| 🌐 [**HEXA Servicios Integrales**](https://www.hexaservicios.com) | Corporate site for an engineering & solar energy company. Clients include Transener, Poder Judicial de la Nación and KOMSA. Sold & delivered. | Next.js · TS · Tailwind |
+| ⚙️ **HEXA Gestión** *(in progress)* | ERP/CRM built for HEXA Servicios — modules for client management, budgets, project tracking, billing and reporting. | Next.js · TS · Tailwind · Supabase · PostgreSQL |
+| 🔐 **recon-toolkit** *(planned)* | Modular Python CLI for automated web recon — subdomain enumeration, port scanning, and vulnerability fingerprinting chained into a single report. | Python · Nmap · Shodan API · Bash |
+| 🤖 **sec-audit-ai** *(planned)* | LLM-powered tool that takes a raw pentest report and outputs structured findings with severity scoring, remediation steps, and executive summary. | Python · LangChain · OpenAI API |
 
 ---
 
