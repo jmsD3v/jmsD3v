@@ -21,6 +21,8 @@ I'm a multidisciplinary developer and consultant who thinks about systems the sa
 
 My work sits at the intersection of **full stack development**, **offensive security**, and **AI engineering**. I design systems with a security-first mindset — whether that's writing TypeScript, automating infrastructure with Python, or finding vulnerabilities before someone else does.
 
+My go-to stack is **Next.js + Tailwind + Supabase** — fast to ship, easy to scale, and solid enough to build real products on.
+
 Currently deepening expertise in **web application pentesting**, **PLC/industrial automation**, and **AI-driven security tooling**.
 
 ---
@@ -69,6 +71,7 @@ Recon → Enumeration → Exploitation → Post-exploitation → Reporting
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
