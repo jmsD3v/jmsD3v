@@ -2,7 +2,7 @@
 
 # Juan Manuel Silva
 
-**Full Stack Developer · Cybersecurity Specialist · AI Engineer**
+**Software Engineer · TypeScript & Python · DevSecOps · Applied Cybersecurity · Industry 4.0**
 
 *Building secure, scalable systems — from the frontend to the exploit.*
 
