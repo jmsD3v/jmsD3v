@@ -6,9 +6,10 @@
 
 *Building secure, scalable systems — from the frontend to the exploit.*
 
+[![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge)](https://jmsilva.dev)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/jmsilva83)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:juanmanuelsilva06@gmail.com)
-[![WhatsApp](https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge)](https://wa.me/+543731551351)
+[![WhatsApp](https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge)](https://wa.me/+5493625455529)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge)](https://www.instagram.com/jmsilva83)
 
 </div>
@@ -97,12 +98,25 @@ Certified electrician specializing in **renewable energy systems** and solar ins
 
 ## 📌 Featured Projects
 
+**Security suite** — 9 Python tools spanning offensive, defensive and forensics, each independently tested and documented ([full breakdown on my portfolio](https://jmsilva.dev/#hacker)):
+
 | Project | Description | Stack |
 |---------|------------|-------|
+| 🎯 [**reconai**](https://github.com/jmsD3v/reconai) | Offensive recon orchestrator — 6 parallel agents (DNS, ports, WHOIS, web tech, Shodan, screenshots) + AI-written summary. | Python · Claude/Gemini/OpenAI |
+| 🕵️ [**webhunter**](https://github.com/jmsD3v/webhunter) | OWASP Top 10 web vulnerability scanner with AI-assisted exploit suggestions. | Python |
+| 📡 [**threatfeed**](https://github.com/jmsD3v/threatfeed) | Multi-source CTI aggregator — AbuseIPDB, VirusTotal, OTX, ThreatFox, Shodan. | Python |
+| 🧬 [**malwarescope**](https://github.com/jmsD3v/malwarescope) | Static malware analyzer with a pure-Python YARA-lite rule engine (no libyara needed). | Python |
+| 🐝 [**honeygrid**](https://github.com/jmsD3v/honeygrid) | Concurrent SSH + HTTP honeypot with live credential/command capture and AI threat profiling. | Python |
+| *+ 4 more* | soclite (SIEM), phishsim (phishing sim), dfirauto (forensic triage), pcapforge (PCAP forensics) | Python |
+
+**Other work:**
+
+| Project | Description | Stack |
+|---------|------------|-------|
+| 📄 [**CvMaker**](https://github.com/jmsD3v/CvMaker) | ATS-optimized CV + cover letter generator — upload a job post, get a tailored CV in seconds. | Next.js · TS |
 | 🌐 [**HEXA Servicios Integrales**](https://www.hexaservicios.com) | Corporate site for an engineering & solar energy company. Clients include Transener, Poder Judicial de la Nación and KOMSA. Sold & delivered. | Next.js · TS · Tailwind |
-| ⚙️ **HEXA Gestión** *(in progress)* | ERP/CRM built for HEXA Servicios — modules for client management, budgets, project tracking, billing and reporting. | Next.js · TS · Tailwind · Supabase · PostgreSQL |
-| 🔐 **recon-toolkit** *(planned)* | Modular Python CLI for automated web recon — subdomain enumeration, port scanning, and vulnerability fingerprinting chained into a single report. | Python · Nmap · Shodan API · Bash |
-| 🤖 **sec-audit-ai** *(planned)* | LLM-powered tool that takes a raw pentest report and outputs structured findings with severity scoring, remediation steps, and executive summary. | Python · LangChain · OpenAI API |
+| ⚙️ [**HEXA Gestión**](https://github.com/jmsD3v/hexa-gestion) | ERP/CRM for HEXA Servicios — client management, budgets, project tracking, billing and reporting. | Next.js · TS · Supabase · PostgreSQL |
+| 🛰️ [**ArgOS**](https://argoscyberintel.com) | Python Security Developer — audit, hardening and front-end rework of tooling for Argentina's cyberintelligence/OSINT OS. | Python |
 
 ---
 
